@@ -1,0 +1,28 @@
+Circuit: * C:\Users\jhong\Desktop\adi\shitan\1_2.asc
+
+Direct Newton iteration for .op point succeeded.
+
+vout_pp: PP(v(vout))=2.54051 FROM 0.025 TO 0.045
+vout_max: MAX(v(vout))=1.13945 FROM 0.025 TO 0.045
+vout2_pp: PP(v(vout2))=9.9499 FROM 0.025 TO 0.045
+vout2_max: MAX(v(vout2))=4.94 FROM 0.025 TO 0.045
+
+
+Date: Sat Nov 09 15:24:54 2024
+Total elapsed time: 0.845 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 132243
+traniter = 132238
+tranpoints = 61551
+accept = 48788
+rejected = 12763
+matrix size = 33
+fillins = 24
+solver = Normal
+Thread vector: 3.6/2.5[2] 1.1/0.8[2] 0.7/0.5[2] 0.1/0.8[1]  2592/500
+Matrix Compiler1: 3.80 KB object code size  0.6/0.3/[0.1]
+Matrix Compiler2: off  [0.1]/0.3/0.2
+

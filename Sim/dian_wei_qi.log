@@ -1,0 +1,18 @@
+Questionable use of curly braces in "r1 1 2 {ra}"
+    Error: undefined symbol in: "[ra]"
+Questionable use of curly braces in "r2 2 3 {rb}"
+    Error: undefined symbol in: "[rb]"
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\jhong\Desktop\adi\shitan\dian_wei_qi.asc
+Start Time: Fri Nov  8 11:40:51 2024
+Error on line 2 : r1 1 2 (ra)
+	 Unable to find definition of model "ra"
+Error on line 3 : r2 2 3 (rb)
+	 Unable to find definition of model "rb"
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = modified trap
+Fatal Error: This circuit does not have a conduction path to ground!
+   Please flag a node as ground.

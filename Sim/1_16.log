@@ -1,0 +1,21 @@
+Circuit: * C:\Users\jhong\Desktop\adi\shitan\1_16.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Fri Nov 15 15:47:11 2024
+Total elapsed time: 0.089 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2450
+traniter = 2411
+tranpoints = 1144
+accept = 1119
+rejected = 25
+matrix size = 17
+fillins = 3
+solver = Normal
+Matrix Compiler1: 1.26 KB object code size  0.3/0.1/[0.1]
+Matrix Compiler2: off  [0.1]/0.2/0.2
+

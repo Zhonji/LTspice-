@@ -1,0 +1,25 @@
+Circuit: * C:\Users\jhong\Desktop\adi\shitan\1_15.asc
+
+Direct Newton iteration for .op point succeeded.
+
+avgofvo: AVG(v(vo))=-11.2273 FROM 0.05 TO 0.1
+ppofvo: PP(v(vo))=0.153925 FROM 0.05 TO 0.1
+
+
+Date: Fri Nov 15 15:21:47 2024
+Total elapsed time: 1.080 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 423374
+traniter = 423359
+tranpoints = 97531
+accept = 68368
+rejected = 29163
+matrix size = 12
+fillins = 8
+solver = Normal
+Matrix Compiler1: 1.13 KB object code size  0.2/0.1/[0.1]
+Matrix Compiler2: off  [0.1]/0.1/0.1
+

@@ -1,0 +1,44 @@
+Circuit: * C:\Users\jhong\Desktop\adi\shitan\2_24.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+Gmin = 1.89714e-008
+Gmin = 2.03704e-009
+Gmin = 2.18725e-010
+Gmin = 2.34854e-011
+Gmin = 2.52173e-012
+Gmin = 2.70769e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+icq1: AVG(ic(q1))=0.0015004 FROM 0 TO 0.005
+icq2: AVG(ic(q2))=0.109608 FROM 0 TO 0.005
+
+
+Date: Sat Nov 16 18:40:01 2024
+Total elapsed time: 0.101 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3815
+traniter = 3354
+tranpoints = 1429
+accept = 1296
+rejected = 133
+matrix size = 32
+fillins = 34
+solver = Normal
+Matrix Compiler1: 3.98 KB object code size  0.6/0.3/[0.2]
+Matrix Compiler2: off  [0.2]/0.4/0.3
+

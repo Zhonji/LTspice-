@@ -1,0 +1,39 @@
+Circuit: * C:\Users\jhong\Desktop\adi\shitan\4_45.asc
+
+WARNING: Node N010 is floating.
+WARNING: Node N013 is floating.
+WARNING: Node N003 is floating.
+WARNING: Node N018 is floating.
+WARNING: Node N020 is floating.
+WARNING: Node N004 is floating.
+WARNING: Node N012 is floating.
+WARNING: Node N015 is floating.
+WARNING: Node N007 is floating.
+WARNING: Node N022 is floating.
+WARNING: Node N024 is floating.
+WARNING: Node N008 is floating.
+
+Direct Newton iteration for .op point succeeded.
+
+rc: MAX(v(vout_rc))=1.98625 FROM 0.025 TO 0.005
+out: MAX(v(vout))=0.01727 FROM 0.025 TO 0.005
+
+
+Date: Thu Nov 21 14:01:13 2024
+Total elapsed time: 0.156 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 6847
+traniter = 6838
+tranpoints = 2333
+accept = 1718
+rejected = 615
+matrix size = 79
+fillins = 40
+solver = Normal
+Thread vector: 8.2/4.9[4] 1.7/3.0[1] 1.7/2.2[1] 0.2/1.1[1]  2592/500
+Matrix Compiler1: 5.59 KB object code size  1.0/0.4/[0.3]
+Matrix Compiler2: off  [0.4]/0.5/0.4
+

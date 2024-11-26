@@ -1,0 +1,26 @@
+Circuit: * C:\Users\jhong\Desktop\adi\shitan\2_18.asc
+
+Direct Newton iteration for .op point succeeded.
+
+avg: AVG(v(vo))=3.00258 FROM 0 TO 0.05
+max: MAX(v(vo))=4.95812 FROM 0 TO 0.05
+min: MIN(v(vo))=0.999974 FROM 0 TO 0.05
+
+
+Date: Fri Nov 15 18:59:42 2024
+Total elapsed time: 0.085 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 21158
+traniter = 21154
+tranpoints = 7920
+accept = 5883
+rejected = 2037
+matrix size = 13
+fillins = 6
+solver = Normal
+Matrix Compiler1: 734 bytes object code size  0.1/0.1/[0.0]
+Matrix Compiler2: off  [0.1]/0.1/0.1
+

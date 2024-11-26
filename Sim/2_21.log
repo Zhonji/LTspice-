@@ -1,0 +1,24 @@
+Circuit: * C:\Users\jhong\Desktop\adi\shitan\2_21.asc
+
+Direct Newton iteration for .op point succeeded.
+
+pp: PP(v(vo))=1.8263 FROM 0.001 TO 0.005
+
+
+Date: Sat Nov 16 10:55:07 2024
+Total elapsed time: 0.307 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 16068
+traniter = 16060
+tranpoints = 6442
+accept = 4809
+rejected = 1633
+matrix size = 8
+fillins = 4
+solver = Normal
+Matrix Compiler1:      41 opcodes  0.1/[0.1]/0.1
+Matrix Compiler2:      57 opcodes  0.1/[0.0]/0.1
+
